@@ -1,3 +1,18 @@
+uptime monitoring tool down discord notification![Screenshot (70)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/4e9593de-cf58-4468-b3e3-5eabba610b9b)
+uptime monitoring tool down![260946430-939b347a-ea3a-4bb8-bfe0-b969122d8c6a](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/4e52d69a-0bea-48c0-a3be-70198540148e)
+uptime kuma notification setup![Screenshot (70)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/7c3ae2e7-6a21-4a68-aea9-ac0058eca8b8)
+monitoring tool dashboard![Screenshot (69)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/df85f2ca-435e-4415-b682-7267141b06dd)
+application page web url![Screenshot 2023-08-05 113758](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/19bb4560-ac16-4cc2-bb1b-d5ba0bdaad96)
+docker hub images![Screenshot (95)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/3e97643b-2d4b-41cc-b3f9-1f398893751c)
+security group config![Screenshot (81)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/5149a7e6-1f79-451b-b209-bfbb27348f78)
+login to server with my IP part2![Screenshot (80)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/28274bc6-f19a-4c5b-b315-9bea14df3419)
+login to server with my IP part1![Screenshot (91)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/9e4e51b9-7a2b-4fa4-a8d3-a3b29e5f84d4)
+jenkins execute command part2![Screenshot (90)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/05eae5e5-23e3-4790-9785-910998945af5)
+jenkins execute commands part1![Screenshot (93)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/c57b9483-e306-4539-9ef3-5fbddb256c45)
+jenkins cinfiguration settings part2![Screenshot (92)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/b289873a-533a-461c-a003-649ce5aa5e4a)
+jenkins configuration settings part1![Screenshot (87)](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/ed4bb4bd-7d26-4ab0-b40e-b8e8507c17f6)
+jenkins login page
+![260946356-18e220f1-eed3-46df-ab14-e2423b4a7505](https://github.com/Vigneshkasi/reactjs-demo/assets/129573088/79926efc-f3c8-4b3e-8e49-65e6bc02ce0b)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
